@@ -1,0 +1,7 @@
+#cuadro{ width: 100px; height: 100px; background: red; position: absolute; left: 0px; top: 0px; }
+#barrera{ position: absolute; top: 150px; left: 150px; background: #000; width: 100px; height: 100px;  }
+.cuadros span{ position: absolute; color:#fff; font-family: verdana; font-weight: bold; }
+.cuadros span.s1{ left: 30%; top: 0px; }
+.cuadros span.s2{ left: 0px; top: 41%; }
+.cuadros span.s3{ right: 0px; top: 41%; }
+.cuadros span.s4{ bottom: 0px; left: 20%; }
